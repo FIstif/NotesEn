@@ -2,7 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.NotesEn" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/pers</item>
+        <item name="android:statusBarColor">@color/pers</item>
+        <item name="colorPrimaryVariant">@color/pers</item>
     </style>
 
     <style name="Theme.NotesEn" parent="Base.Theme.NotesEn" />
